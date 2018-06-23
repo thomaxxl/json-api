@@ -44,6 +44,7 @@ assembled to vet them.
 * [Sarala](https://github.com/milroyfraser/sarala) is a javascript package which gives you a [Laravel Eloquent](https://laravel.com/docs/5.6/eloquent) like syntax to perform CRUD operations against an JSON API built according to [JSON API specification](http://jsonapi.org/format/).
 * [JSORM](https://jsonapi-suite.github.io/jsonapi_suite/js/home) is an
 isomorphic ActiveRecord clone that issues JSON API requests instead of SQL and is part of the larger [JSONAPI Suite](https://jsonapi-suite.github.io/jsonapi_suite).
+* [jsonapi-admin](https://github.com/thomaxxl/jsonapi-admin) React-redux + bootstrap web interface to manage a jsonapi backend
 
 ### <a href="#client-libraries-typescript" id="client-libraries-typescript" class="headerlink"></a> Typescript
 * [ts-angular-jsonapi](https://github.com/reyesoft/ts-angular-jsonapi) A JSON API library developed for AngularJS in Typescript
